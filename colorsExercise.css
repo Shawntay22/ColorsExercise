@@ -1,0 +1,54 @@
+/* Color Name */
+h1{
+    color: pink;
+    background-color: red;
+}
+/* RGB */
+h2{
+    color: rgb(255, 143, 197);
+    background-color: rgb(255, 123, 0);
+}
+/* Hexadecimal Shorthand */
+h3{
+    color: #fcb;
+    background-color: #FF0;
+}
+/* Hexadecimal */
+h4{
+    color: #fa8072;
+    background-color: green;
+}
+/* Hexadecimal shorthand with Transparency */
+h5{
+    color: #f079;
+    background-color: blue;
+}
+/* RGBA */
+h6{
+    color: rgba(255, 63, 174, 6);
+    background-color: indigo;
+}
+/* Hexadecimal with Transparency */
+p{
+    color: #e6006b90;
+    background-color: violet;
+}
+
+#first{
+    color: hotpink;
+}
+
+/* span {
+    color: hotpink;
+} */
+/* li:first-child {
+    color: hotpink;
+} */
+
+li:last-child {
+    background-color: peachpuff;
+}
+
+.list {
+   border: solid 5px green;
+}
